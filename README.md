@@ -258,9 +258,6 @@ Future enhancements planned:
 
 ## Author
 
-**Karan Pratap**
-- GitHub: [@Karanpratap7](https://github.com/Karanpratap7)
-
 **Paarth Yadav**
 - GitHub: [@PaarthYadav](https://github.com/PaarthYadav)
 
