@@ -242,7 +242,7 @@ We welcome contributions! Here's how you can help:
 
 If you encounter any issues:
 
-1. **Check the Issues**: Browse existing [GitHub Issues](https://github.com/Karanpratap7/MedDoc-Flow/issues)
+1. **Check the Issues**: Browse existing [[GitHub Issues](https://github.com/PaarthYadav/MedDoc-Flow/issues)
 2. **Create an Issue**: Report bugs or request features
 3. **Documentation**: Review this README and inline code comments
 
